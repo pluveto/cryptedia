@@ -70,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.Cname(),
+      Plugin.CNAME(),
     ],
   },
 }
