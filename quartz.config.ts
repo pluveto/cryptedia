@@ -4,6 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🧬Cryptedia",
+    htmlTitleTransform: (title) => `${title} | Cryptedia`,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
