@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Cryptedia",
+    pageTitle: "🧬Cryptedia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
