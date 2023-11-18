@@ -1,5 +1,5 @@
 ---
-title: Merkle树
+title: Merkle Tree
 date: 2023-11-15
 tags: []
 categories: []
@@ -8,7 +8,6 @@ mathjax: true
 comments: true
 description: 
 ---
-
 
 数据完整性是通信协议需要考虑的基本问题之一。 数据存储于硬盘中、将在网络中传输,应时时刻刻保证数据的完整性。区块链程序更是如此。
 
