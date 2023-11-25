@@ -9,7 +9,7 @@ comments: true
 description: 
 ---
 
-以太坊改进提案（Ethereum Improvement Proposals，简称 EIPs）是指对[[以太坊]]网络的潜在新功能或流程进行规范化的标准。EIPs 包含了对所提议更改的技术规范，并作为社区的“真相来源”。
+以太坊改进提案（Ethereum Improvement Proposals，简称 EIPs）是指对[[Ethereum]]网络的潜在新功能或流程进行规范化的标准。EIPs 包含了对所提议更改的技术规范，并作为社区的“真相来源”。
 
 EIPs 的作用是确保以太坊网络的改进经过深思熟虑，并得到广泛的社区支持。它们使得以太坊区块链能够对不断演变的区块链环境做出响应，实施有益于社区和网络本身的变化。
 

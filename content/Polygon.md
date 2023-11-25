@@ -2,7 +2,7 @@
 title: Polygon
 ---
 
-Polygon 旨在创建与 [[以太坊]] 兼容的多链区块链系统的区块链平台。它使用与以太坊相同的权益证明共识机制来处理链上交易。Polygon 的原生代币名为 MATIC，它是一种 [[ERC-20]] 代币，与其他以太坊加密货币兼容。Polygon 在去中心化应用（dApps）中得到应用，如 DeFi、DAO 和 NFTs。
+Polygon 旨在创建与 [[Ethereum]] 兼容的多链区块链系统的区块链平台。它使用与以太坊相同的权益证明共识机制来处理链上交易。Polygon 的原生代币名为 MATIC，它是一种 [[ERC-20]] 代币，与其他以太坊加密货币兼容。Polygon 在去中心化应用（dApps）中得到应用，如 DeFi、DAO 和 NFTs。
 
 Polygon 的项目最初叫做 MATIC 网络，是一个基于 [[Plasma]] 的 L2 解决方案。后来，为了适应以太坊生态系统的多样性和复杂性，MATIC 网络更名为 Polygon，扩展了其范围和功能，成为一个 L2 的聚合器。Polygon 的主要产品是 Polygon SDK，它是一个模块化的、灵活的、功能丰富的开发框架，可以帮助开发者创建和部署与以太坊兼容的网络和应用。Polygon 还提供了一些核心组件，如安全层、验证者层、网络层、执行层等，以及一些预构建的网络和解决方案，如 Polygon POS、Polygon Plasma、Polygon Avail 等 。
 

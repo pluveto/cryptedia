@@ -1,5 +1,6 @@
 ---
-title: 通道
+aliases:
+- 通道
 date: 2023-11-15
 tags: []
 categories: []

@@ -1,5 +1,6 @@
 ---
-title: 侧链
+aliases:
+- 侧链
 date: 2023-11-15
 tags: []
 categories: []

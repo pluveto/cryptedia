@@ -1,6 +1,8 @@
 ---
 title: ZK
-aliases: 零知识证明, ZKP
+aliases:
+- 零知识证明
+- ZKP
 ---
 
 ## ZK

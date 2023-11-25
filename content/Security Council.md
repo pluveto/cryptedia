@@ -1,15 +1,17 @@
 ---
-title: 安全议会
-aliases: Security Council
-date: 2023-11-17
-tags: []
+title: Security Council
+aliases:
+- 安全议会
+date: 2023-11-17T00:00:00.000+08:00
 categories: []
-toc: true
-mathjax: true
 comments: true
 description: 
+mathjax: true
+tags: []
+toc: true
 ---
-安全议会 (Security council) 指的是一个 Gnosis multisig ([[多重签名]]) 的地址，由一些受信任的所有者组成，他们可以减少升级锁定的时间。
+
+安全议会 (Security council) 指的是一个 Gnosis multisig ([[MultiSig]]) 的地址，由一些受信任的所有者组成，他们可以减少升级锁定的时间。
 
 Gnosis multisig 是一种智能合约，它允许多个参与者共同管理一些资产或执行一些操作，而不是由单个地址控制。升级锁定是一种机制，它要求在升级智能合约之前有一定的时间间隔，以便让所有者和用户有足够的时间审查和验证新的代码。
 

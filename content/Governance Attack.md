@@ -1,5 +1,6 @@
 ---
-title: 治理攻击
+aliases:
+- 治理攻击
 date: 2023-11-16
 tags: []
 categories: []

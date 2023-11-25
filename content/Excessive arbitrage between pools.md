@@ -1,5 +1,6 @@
 ---
-title: 池间过度套利
+aliases:
+- 池间过度套利
 date: 2023-11-16
 tags: []
 categories: []
